@@ -1,0 +1,18 @@
+h1{
+    color: brown;
+    background-color: blueviolet
+    ;
+}
+.text{
+    color:blue;
+}
+#text2 {
+    color: yellow;
+
+}
+table, 
+th,
+td{
+    border: 2px solid black
+}
+
